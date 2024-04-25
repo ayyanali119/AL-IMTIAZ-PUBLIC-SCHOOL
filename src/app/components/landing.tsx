@@ -17,8 +17,7 @@ const Landing = () => {
       <div className='w-[100px] h-[2px] bg-purple-950'></div>
       <div className='w-[100px] h-[2px] bg-purple-950'></div>
       <p className="mb-8 leading-relaxed text-black space-x-7">
-        <p>        </p>
-        <p>        </p>
+        
       
 Empowering Minds, Your Future
       </p>

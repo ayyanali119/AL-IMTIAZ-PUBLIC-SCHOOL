@@ -33,7 +33,7 @@ const Testinomial = () => {
           <Image
             alt="testimonial"
             className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-            src={require("../../../public/teacher.png")}
+            src={require("../../../picture/teacher.png")}
           />
           <p className="leading-relaxed">
         I can`t thank the teachers at this academy enough for their dedication and support. My child's confidence and grades have improved significantly
