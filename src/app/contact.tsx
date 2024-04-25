@@ -19,7 +19,7 @@ const Contact = () => {
 </p>
       <p/>
       <h1 className='text 5xl text-black'> Email:</h1> muhammadayyanali900@gmail.com
-      <h2 className='text 5xl text-black mx-auto text-left'> Ph no: </h2>03039236301
+      <h2 className='text 5xl text-blackcd mx-auto text-left'> Ph no: </h2>03039236301
 
 
       
@@ -35,7 +35,7 @@ const Contact = () => {
               type="text"
               id="name"
               name="name"
-              className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+              className="w-full bg-gray-100s bg-spacity-50 rounded border border-gray-300 focus:border-indigo-500 focus:bg-white focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
             />
           </div>
         </div>
