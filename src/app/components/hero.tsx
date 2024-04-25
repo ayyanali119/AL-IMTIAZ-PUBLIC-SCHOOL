@@ -12,7 +12,7 @@ const Hero = () => {
         className="object-cover object-center rounded mx-auto "
         alt="hero"
         
-        src={require("../../../public/picture/student1.png")}
+        src={require("../../../picture/student1.png")}
       />
 
 
