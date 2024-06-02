@@ -16,7 +16,7 @@ const Testinomial = () => {
           <Image
             alt="testimonial"
             className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-            src={require("../../../public/assects/4.png")}
+            src={require("../assets/4.png")}
           />
           <p className="leading-relaxed">
           personalized tutoring sessions really made a difference in my understanding of challenging subjects. I now feel more confident in my academic abilities.
@@ -33,7 +33,7 @@ const Testinomial = () => {
           <Image
             alt="testimonial"
             className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-            src={require("../../../public/assects/teacher.png")}
+            src={require("../assets/teacher.png")}
           />
           <p className="leading-relaxed">
         I can`t thank the teachers at this academy enough for their dedication and support. My child's confidence and grades have improved significantly
@@ -50,7 +50,7 @@ const Testinomial = () => {
           <Image
             alt="testimonial"
             className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-            src={require("../../../public/assects/4.png")}
+            src={require("../assets/4.png")}
           />
           <p className="leading-relaxed">
           Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki

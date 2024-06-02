@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from 'next/image'
+import Image from "next/image"
 const Hero = () => {
   return (
     <div id='hero'>
@@ -10,9 +10,8 @@ const Hero = () => {
       
     <Image
         className="object-cover object-center rounded mx-auto "
-        alt="hero"
-        
-        src={require("../../../public/assects/student1.png")}
+        alt="student1"
+        src={require("../assets/student.png")}
       />
 
 

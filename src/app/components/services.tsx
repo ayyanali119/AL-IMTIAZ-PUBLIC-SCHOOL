@@ -17,7 +17,7 @@ const Services = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src={require("../../../public/assects/background.png")}
+            src={require("../assets/background.png")}
             alt="blog"
           />
           <div className="p-6">
@@ -37,7 +37,7 @@ const Services = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src={require("../../../public/assects/class2.png")}
+            src={require("../assets/class2.png")}
             alt="blog"
           />
           <div className="p-6">
@@ -58,7 +58,7 @@ const Services = () => {
         <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
           <Image
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src={require("../../../public/assects/teacher.png")}
+            src={require("../assets/teacher.png")}
             alt="blog"
           />
           <div className="p-6">
